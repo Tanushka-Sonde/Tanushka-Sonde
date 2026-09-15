@@ -6,8 +6,11 @@
 
 <p>
   <a href="https://www.linkedin.com/in/tanushka-sonde-97a01b28a/"><img src="https://img.shields.io/badge/LinkedIn-1A0B2E?style=for-the-badge&logo=linkedin&logoColor=FF2079" /></a>
-  <a href="mailto:tanushka.sonde@iitgn.ac.in"><img src="https://img.shields.io/badge/Email-1A0B2E?style=for-the-badge&logo=gmail&logoColor=FF2079" /></a>
-  <a href="https://github.com/Tanushka-Sonde"><img src="https://img.shields.io/badge/GitHub-1A0B2E?style=for-the-badge&logo=github&logoColor=FF2079" /></a>
+<img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=huggingface&logoColor=FFD21E" height="48"/> 
+  <img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=numpy&logoColor=4DABCF" height="48"/>
+  <img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=pandas&logoColor=E70488" height="48"/> 
+  <img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=matplotlib&logoColor=11557C" height="48"/>
+  <img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" height="48"/>
   <!-- ADD_HERE: portfolio / personal website badge, if/when you have one -->
   <!-- ADD_HERE: X / Twitter badge, if you use one -->
 </p>
