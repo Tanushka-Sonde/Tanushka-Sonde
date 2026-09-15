@@ -60,23 +60,18 @@ Reconstructing depth-accurate images from sketches in a few-shot setting.
 </td>
 </tr>
 
-<!-- COMPACT ANALYTICS BOX MATCHING TECH STACK HEIGHT -->
+<!-- COMPACT UNIFIED ANALYTICS BOX -->
 <tr>
-<td colspan="2" align="center">
+<td colspan="2" align="center" style="padding: 0;">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff207980,100:6a0dad80&height=45&section=header&text=ANALYTICS%20%2B%20STATS&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff207980,100:6a0dad80&height=35&section=header&text=ANALYTICS%20%2B%20STATS&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
-<div align="center">
-<br>
+<div align="center" style="margin: 8px 0;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanushka-Sonde&theme=dark&background=1A0B2E&stroke=6A0DAD&ring=FF2079&fire=FF2079&currStreakLabel=FF2079&sideLabels=C9A0FF&dates=C9A0FF" width="98%" />
+</div>
 
-<!-- Scaled streak SVG card -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanushka-Sonde&theme=dark&background=1A0B2E&stroke=6A0DAD&ring=FF2079&fire=FF2079&currStreakLabel=FF2079&sideLabels=C9A0FF&dates=C9A0FF" height="125" />
-
-<br><br>
-
-<!-- Small views badge -->
-<img src="https://komarev.com/ghpvc/?username=Tanushka-Sonde&label=PROFILE+VIEWS&color=FF2079&style=for-the-badge&labelColor=1A0B2E" />
-
+<div align="center" style="margin-bottom: 8px;">
+  <img src="https://komarev.com/ghpvc/?username=Tanushka-Sonde&label=PROFILE+VIEWS&color=FF2079&style=for-the-badge&labelColor=1A0B2E" />
 </div>
 
 </td>
