@@ -62,20 +62,17 @@ Reconstructing depth-accurate images from sketches in a few-shot setting.
 
 <!-- SINGLE UNIFIED CONTAINER FOR STATS, STREAKS, AND VIEWS -->
 <tr>
-<td colspan="2" align="center">
+<td colspan="2" align="center" style="padding-bottom: 0px;">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff207980,100:6a0dad80&height=45&section=header&text=ANALYTICS%20%2B%20STATS&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
-<br><br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanushka-Sonde&theme=dark&background=1A0B2E&stroke=6A0DAD&ring=FF2079&fire=FF2079&currStreakLabel=FF2079&sideLabels=C9A0FF&dates=C9A0FF" width="70%" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tanushka-Sonde&show_icons=true&theme=synthwave&hide_border=true&bg_color=1A0B2E" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanushka-Sonde&theme=dark&background=1A0B2E&stroke=6A0DAD&ring=FF2079&fire=FF2079&currStreakLabel=FF2079&sideLabels=C9A0FF&dates=C9A0FF" width="49%" />
-
-<br><br>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Tanushka-Sonde&label=PROFILE+VIEWS&color=FF2079&style=for-the-badge&labelColor=1A0B2E)
-
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tanushka-Sonde&label=PROFILE+VIEWS&color=FF2079&style=for-the-badge&labelColor=1A0B2E" />
+</p>
 
 </td>
 </tr>
