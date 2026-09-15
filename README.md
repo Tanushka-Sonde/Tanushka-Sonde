@@ -53,10 +53,10 @@ Reconstructing depth-accurate images from sketches in a few-shot setting.
 <br><br>
 
 <!-- Second row scaled to match exact ~42px height -->
-<img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=huggingface&logoColor=FFD21E" height="28" />
-<img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=numpy&logoColor=4DABCF" height="28" />
-<img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=pandas&logoColor=E70488" height="28" />
-<img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" height="28" />
+<img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=huggingface&logoColor=FFD21E" height="42" />
+<img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=numpy&logoColor=4DABCF" height="42" />
+<img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=pandas&logoColor=E70488" height="42" />
+<img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" height="42" />
 
 <br>
 </div>
