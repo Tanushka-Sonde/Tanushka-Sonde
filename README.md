@@ -20,13 +20,12 @@
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a0dad,100:ff2079&height=45&section=header&text=ABOUT%20ME&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2079,100:ff2079&height=45&section=header&text=ABOUT%20ME&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 > Junior Undergraduate, B.Tech Mechanical Engineering @ IIT Gandhinagar
 > Minoring in Artificial Intelligence
 > Background spans robotics (manipulator control, ROS 2, MuJoCo) and computer vision
 > Now applying both to real-world signal + imaging problems
-> Comfortable across the stack — from PyTorch model internals to Docker-orchestrated deployment
 
 </td>
 <td width="50%" valign="top">
