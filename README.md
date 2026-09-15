@@ -58,9 +58,6 @@ Reconstructing depth-accurate images from sketches in a few-shot setting.
 
 <!-- icon-only row 2: skillicons.dev doesn't have these yet, so built as label-less shields.io badges in each tool's real brand color -->
 <img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=huggingface&logoColor=FFD21E" height="48"/>
-<img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=numpy&logoColor=4DABCF" height="48"/>
-<img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=pandas&logoColor=E70488" height="48"/>
-<img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=matplotlib&logoColor=11557C" height="48"/>
 <img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" height="48"/>
 
 <!-- ADD_HERE: MoveIt and MuJoCo have no clean standalone icon on skillicons/simple-icons yet — leaving them out of the icon row rather than faking one -->
