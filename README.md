@@ -6,11 +6,8 @@
 
 <p>
   <a href="https://www.linkedin.com/in/tanushka-sonde-97a01b28a/"><img src="https://img.shields.io/badge/LinkedIn-1A0B2E?style=for-the-badge&logo=linkedin&logoColor=FF2079" /></a>
-<img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=huggingface&logoColor=FFD21E" height="48"/> 
-  <img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=numpy&logoColor=4DABCF" height="48"/>
-  <img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=pandas&logoColor=E70488" height="48"/> 
-  <img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=matplotlib&logoColor=11557C" height="48"/>
-  <img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" height="48"/>
+  <a href="mailto:tanushka.sonde@iitgn.ac.in"><img src="https://img.shields.io/badge/Email-1A0B2E?style=for-the-badge&logo=gmail&logoColor=FF2079" /></a>
+  <a href="https://github.com/Tanushka-Sonde"><img src="https://img.shields.io/badge/GitHub-1A0B2E?style=for-the-badge&logo=github&logoColor=FF2079" /></a>
   <!-- ADD_HERE: portfolio / personal website badge, if/when you have one -->
   <!-- ADD_HERE: X / Twitter badge, if you use one -->
 </p>
@@ -24,11 +21,10 @@
 <td width="50%" valign="top">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2079CC,100:6a0dadCC&height=45&section=header&text=ABOUT%20ME&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%"/>
-
-Junior Undergraduate, B.Tech Mechanical Engineering @ IIT Gandhinagar|
-Minoring in Artificial Intelligence| 
-Background spans robotics (manipulator control, ROS 2, MuJoCo) and computer vision| 
-Now applying both to real-world signal + imaging problems
+Junior Undergraduate, B.Tech Mechanical Engineering @ IIT Gandhinagar | 
+Minoring in Artificial Intelligence | 
+Background spans robotics (manipulator control, ROS 2, MuJoCo) and computer vision | 
+Now applying both to real-world signal + imaging problems.
 
 </td>
 <td width="50%" valign="top">
@@ -61,6 +57,8 @@ Reconstructing depth-accurate images from sketches in a few-shot setting.
 
 <!-- icon-only row 2: skillicons.dev doesn't have these yet, so built as label-less shields.io badges in each tool's real brand color -->
 <img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=huggingface&logoColor=FFD21E" height="48"/>
+<img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=numpy&logoColor=4DABCF" height="48"/>
+<img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=pandas&logoColor=E70488" height="48"/>
 <img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" height="48"/>
 
 <!-- ADD_HERE: MoveIt and MuJoCo have no clean standalone icon on skillicons/simple-icons yet — leaving them out of the icon row rather than faking one -->
