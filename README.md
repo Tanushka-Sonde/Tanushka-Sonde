@@ -38,6 +38,7 @@ Reconstructing depth-accurate images from sketches in a few-shot setting.
 </td>
 </tr>
 
+<!-- TECH STACK SECTION WITH EQUAL ICON SIZES -->
 <tr>
 <td colspan="2">
 
@@ -46,20 +47,22 @@ Reconstructing depth-accurate images from sketches in a few-shot setting.
 <div align="center">
 <br>
 
-<img src="https://skillicons.dev/icons?i=cpp,py,java,matlab,linux,git,ros,opencv,pytorch,tensorflow,sklearn,latex&theme=dark&perline=12" />
+<!-- Main skills row (Skillicons) -->
+<img src="https://skillicons.dev/icons?i=cpp,py,java,matlab,linux,git,ros,opencv,pytorch,tensorflow,sklearn,latex&theme=dark&perline=12" height="42" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=huggingface&logoColor=FFD21E" height="48"/>
-<img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=numpy&logoColor=4DABCF" height="48"/>
-<img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=pandas&logoColor=E70488" height="48"/>
-<img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" height="48"/>
+<!-- Second row scaled to match exact ~42px height -->
+<img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=huggingface&logoColor=FFD21E" height="28" />
+<img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=numpy&logoColor=4DABCF" height="28" />
+<img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=pandas&logoColor=E70488" height="28" />
+<img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" height="28" />
 
+<br>
 </div>
 
 </td>
 </tr>
-
 <!-- COMPACT UNIFIED ANALYTICS BOX -->
 <tr>
 <td colspan="2" align="center" style="padding: 0;">
