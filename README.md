@@ -64,7 +64,7 @@ Reconstructing depth-accurate images from sketches in a few-shot setting.
 <tr>
 <td colspan="2" align="center" style="padding: 0;">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff207980,100:6a0dad80&height=35&section=header&text=ANALYTICS%20%2B%20STATS&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff207980,100:6a0dad80&height=35&section=header&text=STATS&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 <div align="center" style="margin: 8px 0;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanushka-Sonde&theme=dark&background=1A0B2E&stroke=6A0DAD&ring=FF2079&fire=FF2079&currStreakLabel=FF2079&sideLabels=C9A0FF&dates=C9A0FF" width="98%" />
