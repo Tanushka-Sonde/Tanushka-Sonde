@@ -85,23 +85,6 @@ Reconstructing depth-accurate images from sketches in a few-shot setting.
 </td>
 </tr>
 
-<!-- COMPACT SQUEEZED STATS SECTION -->
-<tr>
-<td colspan="2" align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff207980,100:6a0dad80&height=45&section=header&text=STATS&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%"/>
-
-<p align="center" style="margin: 5px 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanushka-Sonde&theme=dark&background=1A0B2E&stroke=6A0DAD&ring=FF2079&fire=FF2079&currStreakLabel=FF2079&sideLabels=C9A0FF&dates=C9A0FF" height="135" />
-</p>
-
-<p align="center" style="margin: 2px 0 6px 0;">
-  <img src="https://komarev.com/ghpvc/?username=Tanushka-Sonde&label=PROFILE+VIEWS&color=FF2079&style=for-the-badge&labelColor=1A0B2E" />
-</p>
-
-</td>
-</tr>
-
 
 </table>
 
