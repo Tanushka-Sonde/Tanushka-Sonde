@@ -8,8 +8,6 @@
   <a href="https://www.linkedin.com/in/tanushka-sonde-97a01b28a/"><img src="https://img.shields.io/badge/LinkedIn-1A0B2E?style=for-the-badge&logo=linkedin&logoColor=FF2079" /></a>
   <a href="mailto:tanushka.sonde@iitgn.ac.in"><img src="https://img.shields.io/badge/Email-1A0B2E?style=for-the-badge&logo=gmail&logoColor=FF2079" /></a>
   <a href="https://github.com/Tanushka-Sonde"><img src="https://img.shields.io/badge/GitHub-1A0B2E?style=for-the-badge&logo=github&logoColor=FF2079" /></a>
-  <!-- ADD_HERE: portfolio / personal website badge, if/when you have one -->
-  <!-- ADD_HERE: X / Twitter badge, if you use one -->
 </p>
 
 </div>
@@ -33,11 +31,9 @@ Now applying both to real-world signal + imaging problems.
 
 **🔬 Few-Shot Sketch-to-Depth**
 Reconstructing depth-accurate images from sketches in a few-shot setting.
-<!-- ADD_HERE: repo link once pushed -->
 
 **🩺 Multi-Parametric Retinal Diagnostics**
 *A Deterministic Physics-Based Engine for Tomographic Classification* — CV applied to a mechanical/optics diagnostic pipeline.
-<!-- ADD_HERE: repo link once pushed -->
 
 </td>
 </tr>
@@ -50,56 +46,36 @@ Reconstructing depth-accurate images from sketches in a few-shot setting.
 <div align="center">
 <br>
 
-<!-- icon-only row 1: covered by skillicons.dev (real brand-colored glyphs, no text) -->
 <img src="https://skillicons.dev/icons?i=cpp,py,java,matlab,linux,git,ros,opencv,pytorch,tensorflow,sklearn,latex&theme=dark&perline=12" />
 
 <br><br>
 
-<!-- icon-only row 2: skillicons.dev doesn't have these yet, so built as label-less shields.io badges in each tool's real brand color -->
 <img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=huggingface&logoColor=FFD21E" height="48"/>
 <img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=numpy&logoColor=4DABCF" height="48"/>
 <img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=pandas&logoColor=E70488" height="48"/>
 <img src="https://img.shields.io/badge/-1A0B2E?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" height="48"/>
-
-<!-- ADD_HERE: MoveIt and MuJoCo have no clean standalone icon on skillicons/simple-icons yet — leaving them out of the icon row rather than faking one -->
 
 </div>
 
 </td>
 </tr>
 
-<tr>
-<td colspan="2">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff207980,100:6a0dad80&height=45&section=header&text=GITHUB%20STATS%20%2B%20ACTIVITY&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tanushka-Sonde&show_icons=true&theme=synthwave&hide_border=true&bg_color=1A0B2E&cache_seconds=86400" width="100%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanushka-Sonde&theme=synthwave&bg_color=1A0B2E&hide_border=true&cache_seconds=86400" width="100%" />
-<!-- NOTE: both images share one public host that rate-limits often. If either shows broken, it's the service, not the markdown — ask me about self-hosting a fork for a permanent fix -->
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff207980,100:6a0dad80&height=45&section=header&text=STREAK%20%2B%20LANGS&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanushka-Sonde&theme=dark&background=1A0B2E&stroke=6A0DAD&ring=FF2079&fire=FF2079&currStreakLabel=FF2079&sideLabels=C9A0FF&dates=C9A0FF" width="100%" />
-
-</td>
-</tr>
-
+<!-- SINGLE UNIFIED CONTAINER FOR STATS, STREAKS, AND VIEWS -->
 <tr>
 <td colspan="2" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff207980,100:6a0dad80&height=45&section=header&text=PROFILE%20VIEWS&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff207980,100:6a0dad80&height=45&section=header&text=ANALYTICS%20%2B%20STATS&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tanushka-Sonde&show_icons=true&theme=synthwave&hide_border=true&bg_color=1A0B2E" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanushka-Sonde&theme=dark&background=1A0B2E&stroke=6A0DAD&ring=FF2079&fire=FF2079&currStreakLabel=FF2079&sideLabels=C9A0FF&dates=C9A0FF" width="49%" />
+
 <br><br>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Tanushka-Sonde&label=PROFILE+VIEWS&color=FF2079&style=for-the-badge&labelColor=1A0B2E)
 
-<!-- ADD_HERE: swap in a GitHub Trophy row (https://github.com/ryo-ma/github-profile-trophy) once you have more pinned/starred repos to show off -->
-<!-- ADD_HERE: pinned repos section — GitHub renders your pinned repos automatically below this README on your profile page -->
+<br>
 
 </td>
 </tr>
