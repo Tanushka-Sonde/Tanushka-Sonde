@@ -48,7 +48,7 @@ Reconstructing depth-accurate images from sketches in a few-shot setting.
 <br>
 
 <!-- Main skills row (Skillicons) -->
-<img src="https://skillicons.dev/icons?i=cpp,py,java,matlab,linux,git,ros,opencv,pytorch,tensorflow,sklearn,latex&theme=dark&perline=12" height="42" />
+<img src="https://skillicons.dev/icons?i=cpp,py,java,matlab,linux,git,ros,opencv,pytorch,tensorflow,sklearn,huggingface,latex&theme=dark&perline=12" height="42" />
 
 <br><br>
 
