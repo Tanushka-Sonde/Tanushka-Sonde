@@ -69,7 +69,7 @@ Reconstructing depth-accurate images from sketches in a few-shot setting.
 
 
 <!-- COMPACT UNIFIED ANALYTICS BOX -->
-<tr>
+<!-- <tr>
 <td colspan="2" align="center" style="padding: 0;">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff207980,100:6a0dad80&height=35&section=header&text=STATS&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%"/>
@@ -83,7 +83,7 @@ Reconstructing depth-accurate images from sketches in a few-shot setting.
 </div>
 
 </td>
-</tr>
+</tr> -->
 
 
 </table>
