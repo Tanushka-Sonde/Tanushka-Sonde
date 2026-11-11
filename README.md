@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/tanushka-sonde-97a01b28a/"><img src="https://img.shields.io/badge/LinkedIn-1A0B2E?style=for-the-badge&logo=linkedin&logoColor=FF2079" /></a>
   <a href="mailto:tanushka.sonde@iitgn.ac.in"><img src="https://img.shields.io/badge/Email-1A0B2E?style=for-the-badge&logo=gmail&logoColor=FF2079" /></a>
   <a href="https://github.com/Tanushka-Sonde"><img src="https://img.shields.io/badge/GitHub-1A0B2E?style=for-the-badge&logo=github&logoColor=FF2079" /></a>
+  <a href="https://tanushka-sonde.github.io/"><img src="https://img.shields.io/badge/Portfolio-1A0B2E?style=for-the-badge&logo=googlechrome&logoColor=FF2079" /></a>
 </p>
 
 </div>
