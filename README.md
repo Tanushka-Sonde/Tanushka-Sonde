@@ -22,7 +22,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff207980,100:6a0dad80&height=45&section=header&text=ABOUT%20ME&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%"/>
 Junior Undergraduate, B.Tech Mechanical Engineering @ IIT Gandhinagar | 
 Minoring in Artificial Intelligence | 
-Background spans robotics (manipulator control, ROS 2, MuJoCo) and computer vision | 
+Background spans robotics (manipulator control, ROS 2, MuJoCo, OpenVLA) and computer vision | 
 Now applying both to real-world signal + imaging problems.
 
 </td>
